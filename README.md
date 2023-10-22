@@ -4,6 +4,7 @@
 ___________________________
 Criar uma aplicação web para gerenciamento de salas/espaços para eventos (reuniões,
 treinamentos, conferências, etc).
+
 A aplicação consiste em funcionalidades que permitem agendar eventos em salas com
 uma pessoa como responsável.
 
