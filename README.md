@@ -24,32 +24,36 @@ determinada sala;
 
 ## REQUISITOS MÍNIMOS
 _________________________
-A aplicação deverá ter
+### A aplicação deverá ter
 
 ● Telas principais:
 
-  ○ Autenticação / Login (mesmo que não funcione)
-  
-  ○ Dashboard (com informações gerais sobre as quantidades de Salas, Eventos, Usuários, etc)
-  
-  ○ CRUD de Salas
-  
-  ○ CRUD de Eventos
-  
-  ○ CRUD de Usuários
+  - ○ Autenticação / Login (mesmo que não funcione)
+      ![photo_5161479546879454139_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/7f83085d-4209-4649-8ce0-5426434abd13)
+
+  - ○ Dashboard (com informações gerais sobre as quantidades de Salas, Eventos, Usuários, etc)
+    ![photo_5161479546879454141_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/15938971-aa81-4401-81b4-21e96e063592)
+    
+  - ○ CRUD de Salas
+    ![photo_5161479546879454138_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/bed12ea0-bcd3-463c-ae94-883a42dbeeb9)
+    
+  - ○ CRUD de Eventos
+     ![photo_5161479546879454140_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/03f4036d-8513-4be8-9d3f-9851aecd4bc8)
+
+  - ○ CRUD de Usuários
   
 ● Documentação:
 
-  ○ Um tutorial mínimo sobre como colocar para executar a aplicação
+  - ○ Um tutorial mínimo sobre como colocar para executar a aplicação
   
-  ○ Uma documentação de funcionamento da API (se houver)
+  - ○ Uma documentação de funcionamento da API (se houver)
   
-  ○ Um documento especificando as tecnologias utilizadas e suas versões
+  - ○ Um documento especificando as tecnologias utilizadas e suas versões
   
 ● Github/Gitlab:
 
-  ○ Todo o código da aplicação deverá ser versionado via GIT e de preferência o trabalho em equipe deve ser através de Pull Requests / Merge Requests, ou seja, trabalhando com branches separados.
+  - ○ Todo o código da aplicação deverá ser versionado via GIT e de preferência o trabalho em equipe deve ser através de Pull Requests / Merge Requests, ou seja, trabalhando com branches separados.
   
 ● Fluxo de desenvolvimento:
 
-  ○ Cada time poderá escolher se vai ou não utilizar uma ferramenta de gestão das atividades, tais como, trello, github projects, github issues, Jira, etc
+  - ○ Cada time poderá escolher se vai ou não utilizar uma ferramenta de gestão das atividades, tais como, trello, github projects, github issues, Jira, etc
