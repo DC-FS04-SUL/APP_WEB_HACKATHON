@@ -25,7 +25,7 @@ _________________________
 ### A aplicação deverá ter
 
 ● Telas principais:
-
+  
   - ○ Autenticação / Login (mesmo que não funcione)
       ![photo_5161479546879454139_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/7f83085d-4209-4649-8ce0-5426434abd13)
 
@@ -39,6 +39,8 @@ _________________________
      ![photo_5161479546879454140_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/03f4036d-8513-4be8-9d3f-9851aecd4bc8)
 
   - ○ CRUD de Usuários
+
+[Mais telas de exemplos](https://drive.google.com/drive/folders/1lQzygyga1lGBWRvlfiS3UjPBmA8rrodh)
   
 ● Documentação:
 
