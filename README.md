@@ -44,6 +44,7 @@ _________________________
  - Preparamos uma lista de possíveis tecnologias a serem usadas:
    
   ● Frontend
+  
     - HTML
     - CSS
         - Puro sem bibliotecas
@@ -58,6 +59,7 @@ _________________________
         - VueJS
         - Outras bibliotecas ou frameworks também são permitidas.
   ● Backend
+  
     - Javascript/NodeJS
           - Puro sem frameworks/libraries
           - ExpressJS / NextJS / outras
@@ -66,8 +68,11 @@ _________________________
     - Etc
 
   ● Banco de Dados:
+  
     - MySQL / MariaDB / PostgreSQL
+    
     - MongoDB / DynamoDB / CouchBase / Cassandra / outros
+    
     - Firebase
 
 ● Documentação:
