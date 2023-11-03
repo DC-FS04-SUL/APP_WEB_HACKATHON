@@ -38,7 +38,38 @@ _________________________
   - ○ CRUD de Usuários
 
 [Mais telas de exemplos](https://drive.google.com/drive/folders/1lQzygyga1lGBWRvlfiS3UjPBmA8rrodh)
-  
+
+● STACK DE TECNOLOGIAS SUGERIDAS:
+ - O time de engenharia terá liberdade em escolher as tecnologias desde que as mesmas estejam dentro do ecossistema de linguagens de programação web de código aberto.
+ - Preparamos uma lista de possíveis tecnologias a serem usadas:
+   
+  ● Frontend
+    - HTML
+    - CSS
+        - Puro sem bibliotecas
+        - Bootstrap / Tailwind / Chakra
+        - Material UI / AntDesign
+        - AnimateCSS
+        - Outras bibliotecas também são permitidas.
+    - Javascript
+        - VanillaJS (puro, sem frameworks)
+        - ReactJS
+        - AngularJS
+        - VueJS
+        - Outras bibliotecas ou frameworks também são permitidas.
+  ● Backend
+    - Javascript/NodeJS
+          - Puro sem frameworks/libraries
+          - ExpressJS / NextJS / outras
+    - PHP
+    - Ruby on Rails
+    - Etc
+
+  ● Banco de Dados:
+    - MySQL / MariaDB / PostgreSQL
+    - MongoDB / DynamoDB / CouchBase / Cassandra / outros
+    - Firebase
+
 ● Documentação:
 
   - ○ Um tutorial mínimo sobre como colocar para executar a aplicação
