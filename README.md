@@ -24,16 +24,20 @@ _________________________
 ● Telas principais:
   
   - ○ Autenticação / Login (mesmo que não funcione)
-      ![photo_5161479546879454139_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/7f83085d-4209-4649-8ce0-5426434abd13)
+     ![Screenshot 2023-05-19 at 18-25-13 Quixlab - Bootstrap Admin Dashboard Template by Themefisher com](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/cde48205-4e38-442c-84b7-d2f495312437)
+
 
   - ○ Dashboard (com informações gerais sobre as quantidades de Salas, Eventos, Usuários, etc)
-    ![photo_5161479546879454141_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/15938971-aa81-4401-81b4-21e96e063592)
+    ![Screenshot 2023-05-19 at 18-25-36 Digital College - Agenda de Eventos](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/238a18f6-6ef1-46bf-98f6-0b4f17843701)
+
     
   - ○ CRUD de Salas
-    ![photo_5161479546879454138_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/bed12ea0-bcd3-463c-ae94-883a42dbeeb9)
-    
+    ![Screenshot 2023-05-19 at 18-29-13 Digital College - Agenda de Eventos](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/e9a6609e-38e8-4bcd-b7a2-3042d4fc058a)
+
+
   - ○ CRUD de Eventos
-     ![photo_5161479546879454140_w](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/03f4036d-8513-4be8-9d3f-9851aecd4bc8)
+     ![Screenshot 2023-05-19 at 18-29-24 Digital College - Agenda de Eventos](https://github.com/DC-FS04-SUL/APP_WEB_HACKATHON/assets/19413241/7673546c-c72d-4f15-8581-3a84644534a4)
+
 
   - ○ CRUD de Usuários
 
